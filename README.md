@@ -1,4 +1,4 @@
-![Welcome GIF](https://giffiles.alphacoders.com/115/115306.gif)
+<img src="https://giffiles.alphacoders.com/115/115306.gif" alt="Welcome GIF" width="200"/>
 
 Hello! I'm Van, a passionate developer who loves to explore new technologies and learn from experienced professionals ✨✨
 
@@ -6,7 +6,6 @@ Hello! I'm Van, a passionate developer who loves to explore new technologies and
 - 🌱 Currently languages: Java, Javascript, C++, Python, Golang
 - 🔭 Technologies: Spring Boot, ExpressJS, AWS
 - 🎯 Future goals: To become a Software Engineer or Cloud Engineer
-
 
 ## Connect With Me 🌐
 - [LinkedIn](https://www.linkedin.com/in/nguyen-chung-van/)
