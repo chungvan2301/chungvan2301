@@ -1,10 +1,10 @@
 <img src="https://giffiles.alphacoders.com/115/115306.gif" alt="Welcome GIF" width="200"/>
 
-Hello! I'm Van, a passionate developer who loves to explore new technologies and learn from experienced professionals ✨✨
+Hello! I'm Van, a Software Engineer who loves to explor about cloud and new technologies  ✨✨
 
 ## About Me 🌟
 - 🌱 Currently languages: Java, Javascript, C++, Python, Golang
-- 🔭 Technologies: Spring Boot, ExpressJS, AWS
+- 🔭 Technologies: Spring Boot, ExpressJS, AWS, Docker
 - 🎯 Future goals: To become a Software Engineer or Cloud Engineer
 
 ## Connect With Me 🌐
