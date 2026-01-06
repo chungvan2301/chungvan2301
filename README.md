@@ -1,11 +1,10 @@
 <img src="https://giffiles.alphacoders.com/115/115306.gif" alt="Welcome GIF" width="200"/>
 
-Hello! I'm Van, a Software Engineer who loves to explor about cloud and new technologies  ✨✨
+ ✨✨
 
 ## About Me 🌟
 - 🌱 Currently languages: Java, Javascript, Typescript, Golang
-- 🔭 Technologies: Spring Boot, ExpressJS, AWS, Docker
-- 🎯 Future goals: To become a Software Engineer
+- 🔭 Technologies: Spring Boot, ExpressJS, SFCC, Playwright
 
 ## Connect With Me 🌐
 - [LinkedIn](https://www.linkedin.com/in/nguyen-chung-van/)
